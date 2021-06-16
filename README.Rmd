@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Interpolate the locations of values within an ordered vector viewed from left to right.
 
-Inpsired by [locate() from numerical recipes](http://www.numerical.recipes/}{locate() from numerical recipes), `base::findInterval()` [VALUE_LOCATE() from IDL](https://www.l3harrisgeospatial.com/docs/value_locate.html).
+Inpsired by [locate() from numerical recipes](http://www.numerical.recipes), `base::findInterval()` and [VALUE_LOCATE() from IDL](https://www.l3harrisgeospatial.com/docs/value_locate.html).
 
 ### Requirements
 
